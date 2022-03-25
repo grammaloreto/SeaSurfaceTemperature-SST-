@@ -1,5 +1,5 @@
 **LSTM** is a type of recurrent neural networks **(RNN)** which are appropiate models to work with time-series data, very common in stock predictions and NLP. 
-In this case, with sea surafece temperature (SST) of each of the 11 stations or points of interest in **Corales del Rosario Park**, a model is trained to predict accurate values of temperature and manage coral diseases which are associated to water temperatures.
+In this case, with sea surafece temperature (SST) of each 11 stations or points of interest in **Corales del Rosario Park**, a model is trained to predict accurate values of temperature and manage coral diseases which are associated to water temperatures.
 
 
 
